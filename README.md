@@ -15,8 +15,22 @@ This game uses Python 2.7.x. Install all dependecies in an virtualenv:
 Usage
 -----
 Run it by:
-    
-    ./supyplex.py
+
+    pynt run
+
+If you want it run in it develop mode:
+
+    pynt "run=[env=dev]"
+
+Other options:
+
+    $ pynt -l
+    Tasks in build file build.py:
+    build_doc                Build documentation with Sphinx. 
+    run           [Default]  Run Supyplex. 
+    tests                    Run unit tests. 
+
+    Powered by pynt 0.8.0 - A Lightweight Python Build Tool.
 
 ToDo
 ----
