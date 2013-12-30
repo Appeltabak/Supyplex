@@ -6,11 +6,7 @@ from subprocess import call
 
 
 def _run(command):
-    """ Run command.
-
-    :param command:     A string with 1 or more commands.
-
-    """
+    """ Execute command. """
     return call(command.split(' '))
 
 
