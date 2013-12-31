@@ -6,7 +6,7 @@ more a project to learn from rather than being a full working clone.
 
 Installation
 -------------
-This game uses Python 2.7.x. Install all dependecies in an virtualenv:
+This game uses Python 2.7.x. Install all dependecies in a virtualenv:
 
     virtualenv .env/
     source .env/bin/activate
@@ -34,7 +34,7 @@ Other options:
 
 ToDo
 ----
-Everything, except writing [README.md].
+Everything, except writing [README.md][2].
 
 [1]:http://en.wikipedia.org/wiki/Supaplex
 [2]:README.md
